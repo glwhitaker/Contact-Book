@@ -1,4 +1,4 @@
-Makefile
-*.out
-*.txt
 .vscode
+Makefile
+*.txt
+*.out
