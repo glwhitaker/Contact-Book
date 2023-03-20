@@ -214,6 +214,7 @@ int main(){
         curs_set(0);
         printMenu(stdscr, 10);
         int choice = getch();
+        // take input
         switch(choice){
             case '1':
                 clear();
